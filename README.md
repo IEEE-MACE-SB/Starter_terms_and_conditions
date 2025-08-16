@@ -1,4 +1,4 @@
-# Terms & Conditions – Start’er 
+# Terms & Conditions – Start’er Campaign
 
 The *Start’er* campaign is organized as a sub-event of **>.hack();_'25**, hosted by IEEE MACE Student Branch (the “Organizer”), with Orkes serving as the event sponsor. By participating in this campaign, you (“Participant”) acknowledge that you have read, understood, and agreed to these Terms & Conditions.
 
@@ -48,9 +48,10 @@ The *Start’er* campaign is organized as a sub-event of **>.hack();_'25**, host
 ---
 
 ## 6. Winner Notification
-6.1 Winners will be notified via the email address provided during GitHub OAuth authentication.  
-6.2 Winners must respond within **two (2) days** of receiving the notification. If no response is received, the prize will be forfeited and awarded to another participant.  
-6.3 The Organizer is not responsible for email delivery issues, spam filtering, or incorrect contact details provided by participants.
+6.1 **All communication with winners will be done exclusively via email** to the address provided during GitHub OAuth authentication.  
+6.2 Winners must respond within **two (2) days** of receiving the notification. If no response is received within this time frame, the prize will be forfeited and the next eligible participant will be contacted.  
+6.3 Participants are responsible for **regularly checking their email (including spam/junk folders)** during the campaign period to avoid missing important communications.  
+6.4 The Organizer is not responsible for email delivery issues, spam filtering, or incorrect contact details provided by participants.
 
 ---
 
